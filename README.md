@@ -6,5 +6,5 @@
  Dacă nu sunteți okay cu git command line, vă recomand [Atlassian SourceTree](https://www.sourcetreeapp.com/) sau [GitKraken](https://www.gitkraken.com/), amândouă având suport pentru GitHub integrat.
 
  ---
- Regulă propusă: **\<root\>\\AAAA.LL.ZZ\\AAAA-AA\\\<nume problema\>**  
- Exemplu: **\<root\>\\2017.04.10\\2004-05\\Field**
+ Regulă propusă: **\<root\>\\AAAA-AA\\\<nume problema\>**  
+ Exemplu: **\<root\>\\2004-05\\Field**
